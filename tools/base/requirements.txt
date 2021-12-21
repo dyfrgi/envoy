@@ -798,9 +798,9 @@ yarl==1.6.3 \
     # via aiohttp
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==59.0.1 \
-    --hash=sha256:899d27ec8104a68d4ba813b1afd66708a1a10e9391e79be92c8c60f9c77d05e5 \
-    --hash=sha256:dedb38ba61844d9df36072dad313cb79426fd50497aaac9c0da4cd50dbeeb110
+setuptools==60.0.2 \
+    --hash=sha256:451fc25d0d428b69d28e7e519228eafc4e9bd827c2836f961747fe8ad97936f7 \
+    --hash=sha256:e2b6b147ffc384f3722b567f678379c70b96ac4f195f30490035115b5fe63e2f
     # via
     #   -r requirements.in
     #   sphinx
